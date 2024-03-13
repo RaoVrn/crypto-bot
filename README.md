@@ -13,15 +13,6 @@ Build your own Decentralized Crypto trading bot from scratch and master defi tra
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-crypto-trading-bot-dapp-for-any-networks-from-scratch)
-
-#### Setup Video
-- [Final Code Setup video](https://youtu.be/SD3gg_eTOso?si=XsWn8WTOppKvTMgI)
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
-
 #### Install Vs Code Editor
 
 ```https://code.visualstudio.com/download
