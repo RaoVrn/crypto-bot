@@ -35,21 +35,6 @@ Kindly follow the following Instructions to run the project in your system and i
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
-## Final Code Instruction
-
-If you download the final source code then you can follow the following instructions to run the Dapp successfully
-
-#### Setup Video
-
-```https://code.visualstudio.com/download
-  WATCH: Setup & Demo Of Project
-```
-
-#### Final Source Code
-
-```https://www.theblockchaincoders.com/SourceCode
-  Download the Final Source Code
-```
 
 #### Install Vs Code Editor
 
